@@ -6,7 +6,7 @@ Long noncoding RNAs (lncRNAs) are widely involved in the initiation and developm
 
 85 features in 4 categories (genomic, epigenetic, expression, network).
 
-## Best features
+## Best model
 
 CRlncRC was built on the integration of genomic, expression, epigenetic and network, totally in four categories of features. Five learning techniques were exploited to develop the effective classification model including Random Forest (RF), Naïve bayes (NB), Support Vector Machine (SVM), Logistic Regression (LR) and K-Nearest Neighbors (KNN). Using ten-fold cross-validation, we showed that RF is the best model for classifying cancer-related lncRNAs (AUC=0.82).
 
